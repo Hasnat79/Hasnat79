@@ -33,6 +33,10 @@ I am a Graduate Researcher @ [TAMU NLP](https://nlp.cs.tamu.edu/) and a collabor
     'Tools': ['Git', 'Linux', 'AWS']
 }
 ```
+## 📫 Connect With Me
+- 📧 Email: hasnatabdullah79@gmail.com
+- 🔗 LinkedIn: [hasnat-md-abdullah](linkedin.com/in/hasnat-md-abdullah)
+- 🎓 Google Scholar: [hasnat_md_abdullah](https://scholar.google.com/citations?user=jFgmL9wAAAAJ&hl=en)
 
 <!--Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)>
 ![Profile Views](https://komarev.com/ghpvc/?username=Hasnat79&color=brightgreen)
