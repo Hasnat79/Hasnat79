@@ -7,9 +7,10 @@ I am a Graduate Researcher @ [TAMU NLP](https://nlp.cs.tamu.edu/) and a collabor
 [![](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hasnatabdullah79@gmail.com)
 
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hasnat79&theme=dracula)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnat79&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hasnat79&theme=dracula)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hasnat79&theme=dracula)|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hasnat79&theme=dracula)](https://git.io/streak-stats) |![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hasnat79&theme=dracula)|
 |-----|------|------|
-||[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hasnat79&theme=dracula)](https://git.io/streak-stats)||
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasnat79&theme=dracula)
 
 ## 🔬 Research Focus
 - **Multimodal AI & Video Understanding**: Developing systems for unusual activity detection and temporal localization
