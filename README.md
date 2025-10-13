@@ -57,7 +57,7 @@
 }
 ```
 ## 📫 Connect With Me
-- 📧 Email: hasnatabdullah79@gmail.com
+- 📧 Email: hasnatmdabdullah@protonmail.com
 - 🔗 LinkedIn: [hasnat-md-abdullah](linkedin.com/in/hasnat-md-abdullah)
 - 🎓 Google Scholar: [hasnat_md_abdullah](https://scholar.google.com/citations?user=jFgmL9wAAAAJ&hl=en)
 
